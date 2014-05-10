@@ -1,0 +1,9 @@
+D:\LYE\NEXT\Pr-Practice\workspace\IOTest\IOTest\bin\Debug\IOTest.exe.config
+D:\LYE\NEXT\Pr-Practice\workspace\IOTest\IOTest\bin\Debug\IOTest.exe
+D:\LYE\NEXT\Pr-Practice\workspace\IOTest\IOTest\bin\Debug\IOTest.pdb
+D:\LYE\NEXT\Pr-Practice\workspace\IOTest\IOTest\obj\Debug\IOTest.csprojResolveAssemblyReference.cache
+D:\LYE\NEXT\Pr-Practice\workspace\IOTest\IOTest\obj\Debug\IOTest.Form1.resources
+D:\LYE\NEXT\Pr-Practice\workspace\IOTest\IOTest\obj\Debug\IOTest.Properties.Resources.resources
+D:\LYE\NEXT\Pr-Practice\workspace\IOTest\IOTest\obj\Debug\IOTest.csproj.GenerateResource.Cache
+D:\LYE\NEXT\Pr-Practice\workspace\IOTest\IOTest\obj\Debug\IOTest.exe
+D:\LYE\NEXT\Pr-Practice\workspace\IOTest\IOTest\obj\Debug\IOTest.pdb
